@@ -1,0 +1,65 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+
+.content
+{
+	width:900px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons
+{
+	display: flex;
+    flex-direction: row;
+    width:900px;
+	height:50px;
+}
+
+.button
+{
+	width: 300px;
+	background-color:red;
+	border:black solid 2px;
+	text-align:center;
+	font-size:x-large;
+	color:white;
+}
+
+.leftcolumn
+{
+	width:50%;
+	float:left;
+	background-color:blue;
+	height:500px;
+}
+
+.rightcolumn
+{
+	width:50%;
+	float:left;
+	background-color:green;
+	height:500px;
+}
+
+img
+{
+	margin:25px;	
+}
+
+.img1
+{
+	width:400px;
+	height:350px;
+}
+
+.img2
+{
+	width:400px;
+	height:350px;	
+}
